@@ -82,7 +82,7 @@ body {
 }
 
 .pic-top {
-  background: url("../img/mission7_navhead.png")no-repeat;
+  background: url("img/mission7_navhead.png")no-repeat;
   height: 690px;
 }
 
@@ -168,7 +168,7 @@ body {
 
 .sec-part {
   height: 340px;
-  background-image: url("../img/看地图.png")
+  background-image: url("img/看地图.png")
 }
 
 .line1 {
